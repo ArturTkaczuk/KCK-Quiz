@@ -1,0 +1,52 @@
+{
+  "quizzes": [
+    {
+      "id": "q1",
+      "title": "Wiedza o PŁ",
+      "questions": [
+        {
+          "id": 1,
+          "text": "W którym roku powstała PŁ?",
+          "options": [
+            "1945",
+            "1950",
+            "1918",
+            "1990"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "text": "Jak nazywa się rektorat?",
+          "options": [
+            "Willa Herbsta",
+            "Willa Reinholda Richtera",
+            "Biała Fabryka",
+            "Zatoka Sportu"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "studentIndex": "111111",
+      "quizTitle": "Wiedza o PŁ",
+      "score": 10,
+      "date": "2025-11-27T16:26:58.547Z"
+    },
+    {
+      "studentIndex": "5554443",
+      "quizTitle": "Wiedza o PŁ",
+      "score": 10,
+      "date": "2025-11-27T16:30:18.252Z"
+    },
+    {
+      "studentIndex": "111222",
+      "quizTitle": "Wiedza o PŁ",
+      "score": 10,
+      "date": "2025-11-27T16:30:18.252Z"
+    }
+  ]
+}
