@@ -48,7 +48,7 @@ Technologies used during development process:
 
 - ReactJS
 - NodeJS
-- PostgreSQL
+- MySQL
 
 ## Features
 
