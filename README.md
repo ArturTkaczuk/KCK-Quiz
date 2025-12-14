@@ -46,9 +46,9 @@ Useful commands - run in project's directory:
 
 Technologies used during development process:
 
-- Vanilla JS
-- SCSS
-- HTML
+- ReactJS
+- NodeJS
+- PostgreSQL
 
 ## Features
 
