@@ -1,0 +1,11 @@
+# Foldery zależności (zablokuje node_modules w /frontend, /backend i innych)
+node_modules/
+
+# Konkretne pliki w głównym folderze
+fizyka.json
+Prompt.md
+
+# Opcjonalnie: ignoruj logi błędów, które często pojawiają się w projektach JS
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
