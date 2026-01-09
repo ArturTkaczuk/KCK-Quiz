@@ -63,6 +63,6 @@ Work in Progress
 ### Użytkownik(Student)
 Work in Progress
 
-##Linki
+## Linki
 
 [Emblematy z zakładki technologie](https://github.com/inttter/md-badges?tab=readme-ov-file#)(licencja MIT)
